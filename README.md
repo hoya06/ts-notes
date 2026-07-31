@@ -1,0 +1,2 @@
+# ts-notes
+ts project
